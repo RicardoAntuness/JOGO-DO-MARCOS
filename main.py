@@ -3,7 +3,7 @@ import random
 import os
 from tkinter import simpledialog
 
-# Henrique e Ricardo
+# Henrique e Ricardo Tupanci
 pygame.init()
 
 relogio = pygame.time.Clock()
