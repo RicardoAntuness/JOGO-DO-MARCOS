@@ -28,7 +28,7 @@ fonte = pygame.font.SysFont("comicsans", 28)
 fonteStart = pygame.font.SysFont("comicsans", 55)
 fonteMorte = pygame.font.SysFont("arial", 120)
 pygame.mixer.music.load("assets/fundo.mp3")
-petroski
+
 branco = (255, 255, 255)
 preto = (0, 0, 0)
 azul = (0, 255, 255)
