@@ -32,7 +32,6 @@ branco = (255, 255, 255)
 preto = (0, 0, 0)
 azul = (0, 255, 255)
 
-
 def jogar(nome):
     pygame.mixer.Sound.play(missileSound)
     pygame.mixer.music.play(-1)
